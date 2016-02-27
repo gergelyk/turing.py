@@ -1,0 +1,9 @@
+turing.py - Simulator of Turing Machine
+
+Other files are programs for Turing machine. Simply run them. E.g.
+
+$ python reverse0123.py
+
+Please read turing.py for more details
+
+
